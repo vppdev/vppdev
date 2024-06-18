@@ -1,6 +1,3 @@
-![Header]([https://link-to-your-header-image.com](https://drive.google.com/file/d/124sAtPe7YyFhBG_8wr5yf86SsU0iS7CW/view?usp=drive_link))
-
-
 # Hi there, I'm  Fedya! 👋
 
 I'm a 17-year-old passionate frontend developer from Uzbekistan. I have a strong enthusiasm for coding, open-source projects, and continuous learning. Currently, I'm expanding my skill set by diving into backend development with Python and SQL.
