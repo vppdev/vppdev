@@ -24,10 +24,6 @@ I'm a 17-year-old passionate frontend developer from Uzbekistan. I have a strong
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?vppdev=yourusername&theme=react-dark)
 
-[Uploading [InternetShortcut]
-URL=https://github.com/onlysharifjon/onlysharifjon#
-README.url…]()
-
 
 
 
